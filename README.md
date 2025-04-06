@@ -1,4 +1,4 @@
-# NDP 封禁系统文档
+# Builddreams自用版
 ## 数据目录在C:/NDP-Data
 ## config.json
 ```json
